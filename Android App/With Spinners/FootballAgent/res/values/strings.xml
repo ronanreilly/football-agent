@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">My Clients</string>
+    <string name="app_name">Football Agent</string>
+	<string name="menu_insert">Add Player</string>
+	<string name="menu_delete">Delete Player</string>
+	<string name="pTeam">Players Team</string>
+	<string name="pFName">First Name</string> 
+	<string name="pLName">Last Name</string> 
+	<string name="pAge">Age</string> 
+	<string name="pNation">Nationality</string>      
+	<string name="pPFoot">Preferred Foot</string> 
+	<string name="pPosition">Position</string>   
+	
+	<string name="pref_foot_radio">Players Preferred Foot?</string> 
+	<string name="left_foot">Left Foot</string> 
+	<string name="right_foot">Right Foot</string>
+	<string name="position_prompt">Choose a Position</string>
+        <string-array name="position_array">
+        <item>GK</item>
+        <item>DF</item>
+        <item>CB</item>
+        <item>SW</item>
+        <item>RB</item>
+        <item>RWB</item>
+        <item>LB</item>
+        <item>LWB</item>
+         <item>MF</item>
+        <item>DM</item>
+        <item>CM</item>
+        <item>AM</item>
+        <item>LM</item>
+        <item>RM</item>
+        <item>FW</item>
+        <item>ST</item>
+        <item>RF</item>
+        <item>CF</item>
+        <item>LF</item>
+        <item>SS</item>
+        <item>RW</item>
+        <item>LW</item>
+    </string-array>
+</resources>
